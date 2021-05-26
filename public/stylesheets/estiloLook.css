@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+}
+nav{
+    height: 60px;
+    background-color:rgb(75, 71, 71);
+    margin-top: 3%;
+    padding-top:10px;
+    padding-bottom: 5px;
+    position: fixed;
+    width:100%;
+    opacity: 70%;
+    z-index: 6;
+    color:white;
+}
+nav a{
+    color: white;
+    padding-left: 5%;
+    opacity: 100%;
+}
+nav img{
+    height: 60px;
+    margin-left: 30px;
+    padding-bottom: 20px;
+}
+iframe{
+    margin-right: 0;
+    margin-top: 10%;
+}
+footer div {
+    margin-top: 50px;
+    height: 120px;
+}
+footer div p{
+    text-align: center;
+    font-size: 20px;
+    color: rgb(224, 216, 216);
+}
+footer div i{
+    
+    size: 80px;
+}
